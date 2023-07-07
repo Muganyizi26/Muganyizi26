@@ -8,5 +8,6 @@
 Muganyizi26/Muganyizi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-##Day1: 
+## Day1: 
+
 I've got a deeper understanding of the operating systems and version control.  
