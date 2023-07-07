@@ -8,6 +8,23 @@
 Muganyizi26/Muganyizi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Week1:
+
 ## Day1: 
 
-I've got a deeper understanding of the operating systems and version control.  
+    I was introduced to the different opertaing sytems, their history and the distribution timelines; these include windows, Linux and BSD getting to differentiate between propriatory and open software
+    Version control including github, bitbucket, gitlab among others
+
+## Day2 
+
+    Virtualisation and containerisation; virtualisation archutectures, types of virtualisation and advantages
+    installation of vnc viewer
+
+## Day3
+
+     Installation of linux server on virtual machine, installation of docker and pihole using docker compose
+     ssh key authentication
+
+## Day4
+
+     Intallation of windows server on virtual machine and activation of active directory
