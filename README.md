@@ -90,4 +90,40 @@ You can click the Preview link to take a look at your changes.
 
 - Presenting OSPF assignment done in GNS3
 - RENU end of qurter II staff meeting
-- Career talk from the UCC ED 
+- Career talk from the UCC ED
+
+# Week4
+
+## 24/7/23:
+
+- The linux shell(bash)
+- Navigation of the filesystem in linux
+
+## 25/7/23:
+
+- Text editors in Linux ie vim, vi and nano and how to use them in detail
+- Insallation of apache2 on the linux VM
+
+## 26/7/23:
+
+- Installation of applications in linux (apt-get, yum), ssh, editing files using nano nad vi
+- file manipulating using vi
+- using ansible, scripting and cron jobs
+
+## 27/7/23:
+
+- File permissions in linux os (chown, chmod)
+- Report on the progress of the project
+
+## 28/7/23:
+
+- Read about network security and cloud foundations
+- talk about GPA awareness
+
+# WEEK 5:
+
+## 31/7/23:
+
+- Nagios
+- cacti
+- LibreNMS
