@@ -127,3 +127,23 @@ You can click the Preview link to take a look at your changes.
 - Nagios
 - cacti
 - LibreNMS
+
+## 1/8/23:
+
+- Helpdesk, ticketing system
+- nfsen
+
+## 2/8/23:
+
+- configuration of a point to point microwave link (cambium)
+- configuration of Eduroam On The Go
+
+## 3/8/23:
+
+- Network enumeartion and scanning (Nmap)
+- Project progress review
+
+## 4/8/23:
+
+- hashing, Salting and peppering (pasword security)
+- Geting familiar with burp suite
