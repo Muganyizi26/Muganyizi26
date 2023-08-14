@@ -147,3 +147,40 @@ You can click the Preview link to take a look at your changes.
 
 - hashing, Salting and peppering (pasword security)
 - Geting familiar with burp suite
+
+# Week 6:
+
+## 7/8/23:
+
+- Basic administartive tasks in linux
+- Controlling processes in linux
+
+## 8/8/23:
+
+- DNS; arcitecture in deatil
+- How to set up a DNS server
+
+## 9/8/23:
+
+- Server management
+- Connection types
+- Accessibility/firewalls
+- Infarstracture palnning
+
+## 10/8/23:
+
+- Cross-site scripting
+- Incident response(Compromised server)
+- Project progress report
+
+## 11/8/23:
+
+- Logs, Cron tasks in linux
+- DHCP
+- SQL injection
+
+# Week 7:
+
+## 14/8/23:
+
+- Incednt response (Recovered a compromised server)
